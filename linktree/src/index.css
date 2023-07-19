@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+    body {
+      background-image: url("https://i.ibb.co/rykgL0y/2023-07-18-18-08-13.jpg");
+      background-size: cover; /* Adjust the background size as needed */
+      /* You can add more background properties like position, repeat, etc. */
+    }
+  }
